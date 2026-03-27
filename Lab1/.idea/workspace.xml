@@ -5,28 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e614ac9-0f45-4676-9c5b-c9ea0fc02036" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/FirstDialog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstDialog/FirstDialog/src/FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/HelloNameDialog.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloNameDialog/HelloNameDialog/src/HelloNameDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/FirstDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HelloWorld/src/HelloWorld.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/JavaBasics.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/src/ChoosingOpinion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/src/InputFromKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaBasics/JavaBasics/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +23,8 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="McpProjectServerCommands">
     <commands />
@@ -55,6 +45,7 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
@@ -110,6 +101,9 @@
       <workItem from="1774591613842" duration="854000" />
       <workItem from="1774593159721" duration="145000" />
       <workItem from="1774593955137" duration="67000" />
+      <workItem from="1774595203683" duration="2156000" />
+      <workItem from="1774597938082" duration="86000" />
+      <workItem from="1774626241817" duration="129000" />
     </task>
     <servers />
   </component>
