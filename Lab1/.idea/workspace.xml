@@ -5,6 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5e614ac9-0f45-4676-9c5b-c9ea0fc02036" name="Changes" comment="Done 6.3">
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/Ex_6.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6.3 to 6.6/Ex_6.4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/CalculateDouble.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CalculateDouble/CalculateDouble/src/CalculateDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,6 +122,8 @@
       <workItem from="1774597938082" duration="86000" />
       <workItem from="1774626241817" duration="129000" />
       <workItem from="1774628247143" duration="1766000" />
+      <workItem from="1774706924586" duration="66000" />
+      <workItem from="1774708215029" duration="215000" />
     </task>
     <task id="LOCAL-00001" summary="Done 6.3">
       <option name="closed" value="true" />
